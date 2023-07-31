@@ -15,3 +15,10 @@
   justify-content: center;
   letter-spacing: 5px;
   font-style: italic; }
+  
+  @media all and (min-width: 768px) {
+    main {
+      background: url(../recursos/webdev.jpg);
+      background-attachment: fixed;
+      background-size: cover; 
+    } }

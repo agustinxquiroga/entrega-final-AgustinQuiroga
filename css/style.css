@@ -36,6 +36,12 @@
   letter-spacing: 5px;
   font-style: italic; }
 
+@media all and (min-width: 768px) {
+  main {
+    background: url(../recursos/webdev.jpg);
+    background-attachment: fixed;
+    background-size: cover; } }
+
 /* FOOTER */
 .footer {
   display: flex;
@@ -59,12 +65,6 @@
   text-align: center;
   padding: 30px;
   border: solid 1px white; }
-
-@media all and (min-width: 768px) {
-  main {
-    background: url(../recursos/webdev.jpg);
-    background-attachment: fixed;
-    background-size: contain; } }
 
 /* SECCION TRABAJOS */
 .seccionTrabajos {
