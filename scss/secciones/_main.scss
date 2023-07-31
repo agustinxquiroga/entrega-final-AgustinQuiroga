@@ -1,0 +1,17 @@
+/* MAIN */
+.titulos h1 {
+  font-size: 25px;
+  padding-left: 20px;
+  font-weight: bold; }
+
+.titulos h3 {
+  font-size: 20px;
+  padding-left: 20px;
+  font-weight: bold; }
+
+.titulos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  letter-spacing: 5px;
+  font-style: italic; }

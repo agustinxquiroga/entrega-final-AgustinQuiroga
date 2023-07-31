@@ -1,0 +1,13 @@
+/* HEADER */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
+.navbar {
+  background-color: black !important; }
+
+.navbar .nav-link {
+  color: white;
+  letter-spacing: 3px;
+  font-size: 1rem; }
+
+.navbar .nav-link:hover {
+  text-decoration: line-through;
+  color: white; }

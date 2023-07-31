@@ -1,0 +1,10 @@
+/* SECCION TRABAJOS */
+.seccionTrabajos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.seccionTrabajos .card {
+  padding: 30px;
+  text-align: center;
+  font-weight: bold; }
